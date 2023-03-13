@@ -4,7 +4,7 @@
 PHax Track is an android mobile application with a database for Makati City Health Institution which aims to document and track immunization records of the patient. It also allows the patient to report adverse events after immunization.
 
 
-#####Technolgies : Android SDK, Java, XML, Firebase (Realtime Database, Authentication, Storage)
+##### Technolgies : Android SDK, Java, XML, Firebase (Realtime Database, Authentication, Storage)
 
 <img src="https://user-images.githubusercontent.com/63446100/224630834-efcadf93-751d-4454-8451-4d83400bac97.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/224628298-942f5a92-6ffe-4c80-a360-72c5605f5662.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/224629923-55d5f13a-21d8-4a5f-be24-2a3166a53030.jpg" width="265" height="590">
 
