@@ -20,4 +20,5 @@ Design Pattern : Model-View-ViewModel (MVVM)
 
 <img src="https://user-images.githubusercontent.com/63446100/224632246-15ff9c90-af58-4629-aa8c-ea46411e1629.jpg" width="295" height="640"> <img src="https://user-images.githubusercontent.com/63446100/224632251-1262faf9-e678-4138-9cbf-5a199b594687.jpg" width="295" height="640"> <img src="https://user-images.githubusercontent.com/63446100/224633256-b0563490-0913-4fac-939e-79f5dbf130bc.jpg" width="295" height="640">
 
-<img src="https://user-images.githubusercontent.com/63446100/224632885-e7f88d91-aa08-493a-909f-1981e8709b24.jpg" width="295" height="640"> <img src="https://user-images.githubusercontent.com/63446100/224633427-4eb7a4cf-9d56-4653-aad3-2577cb5deb50.gif" width="295" height="640">
+<img src="https://user-images.githubusercontent.com/63446100/224636447-e7829a7d-b33c-4e18-8adb-fa27ea4b3708.gif" width="295" height="640"> <img src="https://user-images.githubusercontent.com/63446100/224636149-b0529f86-9f28-4f5b-8e32-d9f15e5093df.gif" width="295" height="640">
+
