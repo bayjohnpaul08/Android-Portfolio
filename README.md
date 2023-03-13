@@ -1,3 +1,4 @@
 # Android-Portfolio
 
-![ezgif com-resize](https://user-images.githubusercontent.com/63446100/224616748-0a73872a-049f-4fc4-b6b5-427db7dc2c90.gif)
+
+![ezgif com-optimize](https://user-images.githubusercontent.com/63446100/224617325-37f034e7-c71e-4a8d-8132-6ab6d84f5cb1.gif = 200x400)
