@@ -1,15 +1,3 @@
 # Android-Portfolio
 
-
- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-
-
-https://user-images.githubusercontent.com/63446100/224615897-74b749dc-e29d-4130-b04f-cd730e216efb.mp4 
-
-
-
-
-
-https://user-images.githubusercontent.com/63446100/224616205-c004e686-6700-44ab-ad35-2c72d6e046ca.mp4
-
+![ezgif com-optimize](https://user-images.githubusercontent.com/63446100/224616506-13bc7e65-cc54-4f4c-85b2-ac652d8a314d.gif)
