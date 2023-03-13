@@ -1,6 +1,6 @@
 # Android-Portfolio
 
-PHax Track Application (October 2020 - December 2020)
+# PHax Track Application (October 2020 - December 2020)
 PHax Track is an android mobile application with a database for Makati City Health Institution which aims to document and track immunization records of the patient. It also allows the patient to report adverse events after immunization.
 
 
