@@ -1,3 +1,3 @@
 # Android-Portfolio
 
-![ezgif com-optimize](https://user-images.githubusercontent.com/63446100/224616506-13bc7e65-cc54-4f4c-85b2-ac652d8a314d.gif)
+![ezgif com-resize](https://user-images.githubusercontent.com/63446100/224616748-0a73872a-049f-4fc4-b6b5-427db7dc2c90.gif)
