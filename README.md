@@ -1,11 +1,10 @@
 # Android-Portfolio
 
-Decathlon Application
-Now enjoy and experience the entire offering of Decathlon India’s 70+ sports and over 5,000 products by using the Decathlon mobile application! Choose from an array of gear and equipment that's designed to get you play-ready.
+PHax Track Application (October 2020 - December 2020)
+PHax Track is an android mobile application with a database for Makati City Health Institution which aims to document and track immunization records of the patient. It also allows the patient to report adverse events after immunization.
 
-Get it on Google Play
 
-Technolgies : Android SDK , Kotlin, Xml, Firebase, RxJava, Android Jetpack Libraries.
+Technolgies : Android SDK, Java, XML, Firebase(Realtime Database, Authentication, Storage)
 
 
 <img src="https://user-images.githubusercontent.com/63446100/224617325-37f034e7-c71e-4a8d-8132-6ab6d84f5cb1.gif" width="200" height="400">
