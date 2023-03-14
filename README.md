@@ -1,9 +1,6 @@
 # Android Portfolio
 
-<p dir="auto">
-  <a href="bay.johnpaul08@gmail.com"><img src="https://camo.githubusercontent.com/b06722f322fe86b851bde0e6b5c2f022e37a3498a0406169d98a4daacae4e0ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d616e6b69742d3830353664352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d696e7574656d61696c6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Email-John%20Paul%20Bay-8056d5.svg?style=for-the-badge&amp;logo=minutemailer&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
- 
-  <a href="https:www.linkedin.com/in/bayjohnpaul" rel="nofollow"><img src="https://camo.githubusercontent.com/89d3795737c80fb98462adcd865af5ae7224f51e7057479ad89510406c3b3803/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d416e6b69742d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-John%20Paul%20Bay-blue.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
+<p dir="auto"> <a href="bay.johnpaul08@gmail.com"><img src="https://camo.githubusercontent.com/b06722f322fe86b851bde0e6b5c2f022e37a3498a0406169d98a4daacae4e0ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d616e6b69742d3830353664352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d696e7574656d61696c6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Email-John%20Paul%20Bay-8056d5.svg?style=for-the-badge&amp;logo=minutemailer&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https:www.linkedin.com/in/bayjohnpaul" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-John%20Paul%20Bay-blue.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=whit" data-canonical-src="https://img.shields.io/badge/linkedin-John%20Paul%20Bay-blue.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## WORK EXPERIENCE
