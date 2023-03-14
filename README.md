@@ -16,6 +16,9 @@ Your Daily Store (YDS) is an online portal for tenants of Ortigas Malls to share
 
 <img alt="Get it on Google Play" src="https://play.google.com/store/apps/details?id=com.ortigasmalls.yourdailystore&hl=en_IN&gl=US" height="80px" data-canonical-src="https://play.google.com/store/apps/details?id=com.ortigasmalls.yourdailystore&hl=en_IN&gl=US" style="max-width: 100%;">
 
+<p dir="auto"><a href="https://play.google.com/store/apps/details?id=com.ortigasmalls.yourdailystore&hl=en_IN&gl=US" rel="nofollow"><img alt="Get it on Google Play" src="https://camo.githubusercontent.com/2149f526e69167218eb7eea8f21cb74a756aa43495f7acfeccfe995d40f62028/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e5f62616467655f7765625f67656e657269632e706e67" height="80px" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="max-width: 100%;"></a></p>
+
+
 #### Technolgies : Android SDK, Kotlin, XML, Retrofit, Android Jetpack, Room, Data Binding, Paging, Data Store, Dagger Hilt, Kotlin Coroutines
 #### Design Pattern : Model-View-ViewModel (MVVM)
 
