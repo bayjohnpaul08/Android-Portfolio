@@ -14,7 +14,7 @@ PHax Track is an android mobile application with a database for Makati City Heal
 # Your Daily Store Application
 Your Daily Store (YDS) is an online portal for tenants of Ortigas Malls to share their products and advertise goods everyday. It also allows business owners to connect with their customers.
 
-<img alt="Get it on Google Play" src="https://play.google.com/store/apps/details?id=com.ortigasmalls.yourdailystore&hl=en_IN&gl=US" height="80px" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="max-width: 100%;">
+<img alt="Get it on Google Play" src="https://play.google.com/store/apps/details?id=com.ortigasmalls.yourdailystore&hl=en_IN&gl=US" height="80px" data-canonical-src="https://play.google.com/store/apps/details?id=com.ortigasmalls.yourdailystore&hl=en_IN&gl=US" style="max-width: 100%;">
 
 #### Technolgies : Android SDK, Kotlin, XML, Retrofit, Android Jetpack, Room, Data Binding, Paging, Data Store, Dagger Hilt, Kotlin Coroutines
 #### Design Pattern : Model-View-ViewModel (MVVM)
