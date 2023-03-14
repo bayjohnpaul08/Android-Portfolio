@@ -1,6 +1,6 @@
 # Android Portfolio
 
-<p dir="auto"><a href="bay.johnpaul08@gmail.com"><img src="https://img.shields.io/badge/Email-John%20Paul%20Bay-8056d5.svg?style=for-the-badge&amp;logo=minutemailer&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/bayjohnpaul" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-John%20Paul-blue.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"  style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="mailto:bay.johnpaul08@gmail.com"><img src="https://img.shields.io/badge/Email-John%20Paul%20Bay-8056d5.svg?style=for-the-badge&amp;logo=minutemailer&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/bayjohnpaul" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-John%20Paul-blue.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"  style="max-width: 100%;"></a></p>
 
 ## WORK EXPERIENCE
 
