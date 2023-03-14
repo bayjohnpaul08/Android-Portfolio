@@ -9,7 +9,7 @@ Your Daily Store (YDS) is an online portal for tenants of Ortigas Malls to share
 
 <p dir="auto"><a href="https://play.google.com/store/apps/details?id=com.ortigasmalls.yourdailystore&hl=en_IN&gl=US" rel="nofollow"><img alt="Get it on Google Play" src="https://camo.githubusercontent.com/2149f526e69167218eb7eea8f21cb74a756aa43495f7acfeccfe995d40f62028/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e5f62616467655f7765625f67656e657269632e706e67" height="80px" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="max-width: 100%;"></a></p>
 
-#### Technolgies : Android SDK, Kotlin, XML, Retrofit, Android Jetpack, Room, Data Binding, Paging, Data Store, Dagger Hilt, Kotlin Coroutines
+#### Technolgies : Android SDK, Android Gradle, Kotlin, XML, Retrofit, Android Jetpack, Paging 3, Paging Source, Remote Mediator, Room, Data Binding, Paging, Data Store, Dagger Hilt, Kotlin Coroutines, Firebase (Crashlytics, Analytics, App Distribution), Google Play Console
 #### Design Pattern : Model-View-ViewModel (MVVM)
 
 <img src="https://user-images.githubusercontent.com/63446100/224632246-15ff9c90-af58-4629-aa8c-ea46411e1629.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/224632251-1262faf9-e678-4138-9cbf-5a199b594687.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/224633256-b0563490-0913-4fac-939e-79f5dbf130bc.jpg" width="265" height="590">
@@ -21,7 +21,7 @@ Engagia is a sales force automation software designed for the consumer goods ind
 
 <p dir="auto"><a href="https://play.google.com/store/apps/details?id=com.engagia.android" rel="nofollow"><img alt="Get it on Google Play" src="https://camo.githubusercontent.com/2149f526e69167218eb7eea8f21cb74a756aa43495f7acfeccfe995d40f62028/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e5f62616467655f7765625f67656e657269632e706e67" height="80px" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="max-width: 100%;"></a></p>
 
-#### Technolgies : Android SDK, Java, Kotlin, XML, Okhttp, Retrofit, Android Jetpack, SQLite, Data Binding, Paging, Data Store, Kotlin Coroutines
+#### Technolgies : Android SDK, Java, Kotlin, XML, Okhttp, Retrofit, Android Jetpack, SQLite, Data Binding, Paging, Data Store, Kotlin Coroutines, Work Manager, Notifications
 #### Design Pattern : Model-View-ViewModel (MVVM)
 
 <img src="https://user-images.githubusercontent.com/63446100/225024725-efc61a57-ca2e-448f-a803-fb31def84fad.jpg" width="265" height="590">
