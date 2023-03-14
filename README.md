@@ -1,7 +1,6 @@
 # Android Portfolio
 
-<p dir="auto"> <a href="bay.johnpaul08@gmail.com"><img src="https://camo.githubusercontent.com/b06722f322fe86b851bde0e6b5c2f022e37a3498a0406169d98a4daacae4e0ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d616e6b69742d3830353664352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d696e7574656d61696c6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Email-John%20Paul%20Bay-8056d5.svg?style=for-the-badge&amp;logo=minutemailer&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp; <a href="https:www.linkedin.com/in/bayjohnpaul" rel="nofollow"></a>&nbsp;&nbsp;&nbsp;
-</p>
+<p dir="auto"><a href="https:www.linkedin.com/in/bayjohnpaul" rel="nofollow"><img alt="Get it on Google Play" src="https://camo.githubusercontent.com/2149f526e69167218eb7eea8f21cb74a756aa43495f7acfeccfe995d40f62028/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e5f62616467655f7765625f67656e657269632e706e67" height="80px" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="max-width: 100%;"></a></p>
 
 ## WORK EXPERIENCE
 
