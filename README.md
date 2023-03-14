@@ -4,7 +4,7 @@
 
 ## WORK EXPERIENCE
 
-### Your Daily Store Application
+## Your Daily Store Application
 #### Your Daily Store (YDS) is an online portal for tenants of Ortigas Malls to share their products and advertise goods everyday. It also allows business owners to connect with their customers.
 
 A key achievement of mine during this role was where I able to transition the existing code base, from java to Kotlin. Since I am only the Android developer here and this is a small application, I'm able to start again the application from scratch. 
@@ -20,7 +20,7 @@ The skills and qualitites I learned within this role made me a highly organized 
 
 <img src="https://user-images.githubusercontent.com/63446100/224636447-e7829a7d-b33c-4e18-8adb-fa27ea4b3708.gif" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/224637965-9061011e-eff6-4917-bb9e-83d74456b948.gif" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/224636149-b0529f86-9f28-4f5b-8e32-d9f15e5093df.gif" width="265" height="590">
 
-### Engagia Application
+## Engagia Application
 #### Engagia is a sales force automation software designed for the consumer goods industry.
 
 I was part of a software development team and I was held the position of android developer here. In this role where I learned the majority of skills I have today.
@@ -33,7 +33,7 @@ I was part of a software development team and I was held the position of android
 
 <img src="https://user-images.githubusercontent.com/63446100/225024725-efc61a57-ca2e-448f-a803-fb31def84fad.jpg" width="265" height="590">
 
-### Shopmetrix Lite Application
+## Shopmetrix Lite Application
 #### Shopmetrix is the fastest, easiest to use and most powerful retail inventory management system for consumer goods.
 
 <p dir="auto"><a href="https://play.google.com/store/apps/details?id=com.shopmetrixosa.android" rel="nofollow"><img alt="Get it on Google Play" src="https://camo.githubusercontent.com/2149f526e69167218eb7eea8f21cb74a756aa43495f7acfeccfe995d40f62028/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e5f62616467655f7765625f67656e657269632e706e67" height="80px" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="max-width: 100%;"></a></p>
@@ -57,7 +57,7 @@ PHax Track is an android mobile application with a database for Makati City Heal
 
 ## PERSONAL PROJECT | PRACTICE PROJECT
 
-### CRUD (Create, Read, Update, Delete) Application 
+## CRUD (Create, Read, Update, Delete) Application 
 This application is what I used in my technical exam at my first job. It is a simple application that show how to insert, update, read, and delete data in local database.
 
 #### Technolgies : Android SDK, Java, XML, SQLite, Material Design
