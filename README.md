@@ -58,7 +58,7 @@ PHax Track is an android mobile application with a database for Makati City Heal
 ## PERSONAL PROJECT | PRACTICE PROJECT
 
 ## CRUD (Create, Read, Update, Delete) Application 
-This application is what I used in my technical exam at my first job. It is a simple application that show how to insert, update, read, and delete data in local database.
+This application is what I used in my technical exam at my first job. It is a simple application that shows how to insert, update, read, and delete data in local database.
 
 #### Technolgies : Android SDK, Java, XML, SQLite, Material Design
 
