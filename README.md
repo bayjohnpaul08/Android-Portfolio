@@ -48,7 +48,7 @@ I was part of a software development team and I was held the position of android
 ### PHax Track Application (October 2020 - December 2020)
 #### PHax Track is an android mobile application with a database for Makati City Health Institution which aims to document and track immunization records of the patient. It also allows the patient to report adverse events after immunization.
 
-This is the first paying project I created. It is a simple database management system for the researchers of University Of Makati. This is the stepping stone on my career in Android Development.
+This is the first paid project I have done, it is a simple database management system for the researchers of University Of Makati. Here I found out that android development is fun.
 
 
 #### Technolgies : Android SDK, Java, XML, Firebase (Realtime Database, Authentication, Storage)
