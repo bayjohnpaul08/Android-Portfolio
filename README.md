@@ -36,9 +36,9 @@ Shopmetrix is the fastest, easiest to use and most powerful retail inventory man
 
 <img src="https://user-images.githubusercontent.com/63446100/225025116-f24338c9-2209-4012-b818-afba02ca70f9.jpg" width="265" height="590">
 
-## WORK EXPOSURE
+## WORK EXPOSURE | FREELANCE WORK
 
-### PHax Track Application
+### PHax Track Application (October 2020 - December 2020)
 PHax Track is an android mobile application with a database for Makati City Health Institution which aims to document and track immunization records of the patient. It also allows the patient to report adverse events after immunization.
 
 
