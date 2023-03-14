@@ -1,6 +1,6 @@
 # Android Portfolio
 
-<p dir="auto"><a href="https://linkedin.com/in/bayjohnpaul" rel="nofollow"><img alt="Get it on Google Play" src="https://img.shields.io/badge/linkedin-John%20Paul%20Bay-blue.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"  style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://linkedin.com/in/bayjohnpaul" rel="nofollow"><img alt="Get it on Google Play" src="https://img.shields.io/badge/linkedin-JP-blue.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"  style="max-width: 100%;"></a></p>
 
 
 
