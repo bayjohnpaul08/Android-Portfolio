@@ -13,7 +13,7 @@ The skills and qualitites I learned within this role made me a highly organized 
 
 <p dir="auto"><a href="https://play.google.com/store/apps/details?id=com.ortigasmalls.yourdailystore&hl=en_IN&gl=US" rel="nofollow"><img alt="Get it on Google Play" src="https://camo.githubusercontent.com/2149f526e69167218eb7eea8f21cb74a756aa43495f7acfeccfe995d40f62028/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e5f62616467655f7765625f67656e657269632e706e67" height="80px" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="max-width: 100%;"></a></p>
 
-#### Technolgies : Android SDK, Android Gradle, Kotlin, XML, Retrofit, Android Jetpack, Paging 3, Paging Source, Remote Mediator, Room, Data Binding, Paging, Data Store, Dagger Hilt, Kotlin Coroutines, Firebase (Crashlytics, Analytics, App Distribution), Google Play Console
+#### Technolgies : Android SDK, Android Gradle, Kotlin, XML, Retrofit, Android Jetpack, Paging 3, Paging Source, Remote Mediator, Room, Data Binding, Paging, Data Store, Navigation, Dagger Hilt, Dagger Hilt, Kotlin Coroutines, Glide, Firebase (Crashlytics, Analytics, App Distribution), Google Play Console
 #### Design Pattern : Model-View-ViewModel (MVVM)
 
 <img src="https://user-images.githubusercontent.com/63446100/224632246-15ff9c90-af58-4629-aa8c-ea46411e1629.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/224632251-1262faf9-e678-4138-9cbf-5a199b594687.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/224633256-b0563490-0913-4fac-939e-79f5dbf130bc.jpg" width="265" height="590">
@@ -58,6 +58,16 @@ This is the first paid project I have done, it is a simple database management s
 <img src="https://user-images.githubusercontent.com/63446100/224628468-d344a4b4-67bb-4126-a484-b68ab34f49e0.gif" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/224628557-639943bb-acb9-43b9-a623-ed087234ed45.gif" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/224630012-1123e4db-946a-4c49-8e0d-847070b92e0e.gif" width="265" height="590">
 
 ## PERSONAL PROJECT | PRACTICE PROJECT
+
+## News Application
+
+#### Technolgies : Android SDK, Kotlin, XML, Room, Dagger Hilt, Navigation, Data binding, Retrofit, Glide
+#### Design Pattern : Model-View-Viewmodel + Clean Architecture
+
+<img src="https://user-images.githubusercontent.com/63446100/225230623-2b075142-6c84-4df6-a1f7-09c4c30588ed.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/225230632-b3f7e8d6-fe89-48b4-8852-b90040cca096.jpg" width="265" height="590"><img src="https://user-images.githubusercontent.com/63446100/225230642-161592ae-b277-478a-91cb-8db23fe0a89a.jpg" width="265" height="590">
+
+<img src="https://user-images.githubusercontent.com/63446100/225230811-b9af3446-051d-4aad-a537-88c60a20c7dd.gif" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/225230819-d75b6601-c6bd-46d3-9cda-943141187553.gif" width="265" height="590">
+
 
 ## CRUD (Create, Read, Update, Delete) Application 
 This application is what I used in my technical exam at my first job. It is a simple application that shows how to insert, update, read, and delete data in local database.
