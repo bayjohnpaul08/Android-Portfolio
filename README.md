@@ -23,7 +23,7 @@ A key achievement of mine during this role was where I able to transition the ex
 
 ## Engagia Application (February 2021 - August 2022)
 #### Engagia is a sales force automation software designed for the consumer goods industry.
-I was part of a software development team and I was held the position of android developer here. This is an existing application, and my day to day job here are bug fixing and feature enhancement that is given by our Android Team Lead. We also the one who is responsible for creating API for android, that is why I have a minimal knowledge in backend developement using PHP.
+I was part of a software development team and I was held the position of android developer here. This is an existing application, and my day to day job here are bug fixing and feature enhancement that is given by our Android Team Lead. We also the one who is responsible for creating Rest API for android, that is why I have a minimal knowledge in backend developement using PHP.
 
 In this role where I learned the majority of skills I have today.
 
