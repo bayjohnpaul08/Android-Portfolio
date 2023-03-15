@@ -64,7 +64,7 @@ This is the first paid project I have done, it is a simple database management s
 #### Technolgies : Android SDK, Kotlin, XML, Room, Dagger Hilt, Navigation, Data binding, Retrofit, Glide
 #### Design Pattern : Model-View-Viewmodel + Clean Architecture
 
-<img src="https://user-images.githubusercontent.com/63446100/225230623-2b075142-6c84-4df6-a1f7-09c4c30588ed.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/225230632-b3f7e8d6-fe89-48b4-8852-b90040cca096.jpg" width="265" height="590"><img src="https://user-images.githubusercontent.com/63446100/225230642-161592ae-b277-478a-91cb-8db23fe0a89a.jpg" width="265" height="590">
+<img src="https://user-images.githubusercontent.com/63446100/225230623-2b075142-6c84-4df6-a1f7-09c4c30588ed.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/225230632-b3f7e8d6-fe89-48b4-8852-b90040cca096.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/225230642-161592ae-b277-478a-91cb-8db23fe0a89a.jpg" width="265" height="590">
 
 <img src="https://user-images.githubusercontent.com/63446100/225230811-b9af3446-051d-4aad-a537-88c60a20c7dd.gif" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/225230819-d75b6601-c6bd-46d3-9cda-943141187553.gif" width="265" height="590">
 
