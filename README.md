@@ -1,4 +1,7 @@
 # Android Portfolio
+Hello, I am John Paul Bay. I would describe myself as a collaborative and solutions driven Android developer. During my 2 years in the industry, I've experience to be part of a software development team, working with other developers, testers, and leaders. I've leverage my years of experience to learn the right technology and best practices for building an industry standard android applications.  
+
+I use Kotlin for Android App Development, but I also have knowledge and work experience in using java for app development. I have working knowledge in using third party libraries in my project such as Retrofit for API Integration, Glide for displaying images, SQLite for saving data to local database, Jetpack libraries such as Navigation, Paging, Data Binding, Kotlin Coroutines, Dagger hilt, Room, Work Manager, Notifications, DataStore, etc. I also have knowledge in MVVM App architecture since it is the design pattern we use in my work. I also experienced implementing Firebse tools to track crash reports and for distributing test version of application to the testers.
 
 <p dir="auto"><a href="mailto:bay.johnpaul08@gmail.com"><img src="https://img.shields.io/badge/Email-John%20Paul%20Bay-8056d5.svg?style=for-the-badge&amp;logo=minutemailer&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/bayjohnpaul" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-John%20Paul%20Bay-blue.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"  style="max-width: 100%;"></a></p>
 
