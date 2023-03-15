@@ -60,7 +60,7 @@ This is the first paid project I have done, it is a simple database management s
 ## PERSONAL PROJECT | PRACTICE PROJECT
 
 ## News Application
-I created this app to practice some of the third party libraries such as Retrofit, Dagger hilt, Room, Navigation, etc. I also apply MVVM and Clean architecture, wherein I create 3 layers (data, domain, presentation), the data layer contains all the business logic from the backend and data source implementation, the domain layer contains the use cases and repositories, and the presentain layer contains all the UI stuff and view models. The REST API I used here is from the site newapi.org.
+I created this app to practice some of the third party libraries such as Retrofit, Dagger hilt, Room, Navigation, etc. I also apply MVVM and Clean architecture, wherein I create 3 layers (data, domain, presentation), the data layer contains all the business logic from the backend and data source implementation, the domain layer contains the use cases and repositories, and the presentain layer contains all the UI stuff and view models. The REST API I used here is from the website newapi.org.
 
 #### Technolgies : Android SDK, Kotlin, XML, Room, Dagger Hilt, Navigation, Data binding, Retrofit, Glide
 #### Design Pattern : Model-View-Viewmodel + Clean Architecture
