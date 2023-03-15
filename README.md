@@ -36,7 +36,7 @@ In this role where I learned the majority of skills I have today.
 
 ## Shopmetrix Lite Application (February 2022 - August 2022)
 #### Shopmetrix is the fastest, easiest to use and most powerful retail inventory management system for consumer goods.
-Similar to Engagia Application, this is also the one I handled when Trade Dynamics Consulting Inc. absorbed me in Nityo Infotech.
+Similar to Engagia Application, this is also the one I handled in this team when Trade Dynamics Consulting Inc. absorbed me in Nityo Infotech.
 
 <p dir="auto"><a href="https://play.google.com/store/apps/details?id=com.shopmetrixosa.android" rel="nofollow"><img alt="Get it on Google Play" src="https://camo.githubusercontent.com/2149f526e69167218eb7eea8f21cb74a756aa43495f7acfeccfe995d40f62028/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e5f62616467655f7765625f67656e657269632e706e67" height="80px" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="max-width: 100%;"></a></p>
 
