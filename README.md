@@ -10,13 +10,11 @@ I use Kotlin for Android App Development, but I also have knowledge and work exp
 ## Your Daily Store Application (August 2022 - February 2023)
 #### Your Daily Store (YDS) is an online portal for tenants of Ortigas Malls to share their products and advertise goods everyday. It also allows business owners to connect with their customers.
 
-A key achievement of mine during this role was where I able to transition the existing code base, from java to Kotlin. Since I am only the Android developer here and this is a small application, I'm able to start again the application from scratch. 
-
-The skills and qualitites I learned within this role made me a highly organized and proficient employee.
+A key achievement of mine during this role was where I able to transition the existing code base, from java to Kotlin. Since I am only the Android developer here and this is a small application, I'm able to start again the application from scratch. The skills and qualitites I learned within this role made me a highly organized and proficient employee.
 
 <p dir="auto"><a href="https://play.google.com/store/apps/details?id=com.ortigasmalls.yourdailystore&hl=en_IN&gl=US" rel="nofollow"><img alt="Get it on Google Play" src="https://camo.githubusercontent.com/2149f526e69167218eb7eea8f21cb74a756aa43495f7acfeccfe995d40f62028/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e5f62616467655f7765625f67656e657269632e706e67" height="80px" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="max-width: 100%;"></a></p>
 
-#### Technolgies : Android SDK, Android Gradle, Kotlin, XML, Retrofit, Android Jetpack, Paging 3, Paging Source, Remote Mediator, Room, Data Binding, Data Store, Navigation, Dagger Hilt, Kotlin Coroutines, Glide, Firebase (Crashlytics, Analytics, App Distribution), Google Play Console
+#### Technolgies : Android SDK, Android Gradle, Kotlin, XML, Retrofit, Android Jetpack, Paging 3, Paging Source, Remote Mediator, Room, Data Binding, Data Store, Navigation, Dagger Hilt, Kotlin Coroutines, Glide, Firebase (Crashlytics, Analytics, App Distribution), Google Play Console.
 #### Design Pattern : Model-View-ViewModel (MVVM)
 
 <img src="https://user-images.githubusercontent.com/63446100/224632246-15ff9c90-af58-4629-aa8c-ea46411e1629.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/224632251-1262faf9-e678-4138-9cbf-5a199b594687.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/224633256-b0563490-0913-4fac-939e-79f5dbf130bc.jpg" width="265" height="590">
@@ -62,7 +60,7 @@ This is the first paid project I have done, it is a simple database management s
 ## News Application
 I created this app to practice some of the third party libraries such as Retrofit, Dagger hilt, Room, Navigation, etc. I also apply MVVM and Clean architecture, wherein I create 3 layers (data, domain, presentation), the data layer contains all the business logic from the backend and data source implementation, the domain layer contains the use cases and repositories, and the presentain layer contains all the UI stuff and view models. The REST API I used here is from the website newsapi.org.
 
-#### Technolgies : Android SDK, Kotlin, XML, Room, Dagger Hilt, Navigation, Data binding, Retrofit, Glide
+#### Technolgies : Android SDK, Kotlin, XML, Room, Dagger Hilt, Navigation, Data binding, Retrofit, Glide.
 #### Design Pattern : Model-View-Viewmodel + Clean Architecture
 
 <img src="https://user-images.githubusercontent.com/63446100/225230623-2b075142-6c84-4df6-a1f7-09c4c30588ed.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/225230632-b3f7e8d6-fe89-48b4-8852-b90040cca096.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/225230642-161592ae-b277-478a-91cb-8db23fe0a89a.jpg" width="265" height="590">
@@ -73,7 +71,7 @@ I created this app to practice some of the third party libraries such as Retrofi
 ## CRUD (Create, Read, Update, Delete) Application 
 This application is what I used in my technical exam at my first job. It is a simple application that shows how to insert, update, read, and delete data in local database.
 
-#### Technolgies : Android SDK, Java, XML, SQLite, Material Design
+#### Technolgies : Android SDK, Java, XML, SQLite, Material Design.
 
 <img src="https://user-images.githubusercontent.com/63446100/225093459-4f567a2d-f240-46d8-9fe2-14cf81c1e253.jpg" width="265" height="590"> <img src="https://user-images.githubusercontent.com/63446100/225093487-b3cfba61-bba2-479e-9994-268baeb10929.jpg" width="265" height="590"><img src="https://user-images.githubusercontent.com/63446100/225093510-61f19897-a3d4-4d62-be08-93b4da8a5fd0.jpg" width="265" height="590">
 
